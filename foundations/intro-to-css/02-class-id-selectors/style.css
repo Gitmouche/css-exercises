@@ -1,4 +1,4 @@
-odd {
+.odd {
     background-color: rgb(255, 137, 137);font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
@@ -6,7 +6,7 @@ odd {
     color: rgb(0, 0, 255);font-size: 24px;
 }
 
-third {
+.third {
     font-size: 24px;
 }
 

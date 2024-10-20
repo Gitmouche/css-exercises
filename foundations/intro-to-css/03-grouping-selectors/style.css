@@ -3,9 +3,9 @@ button {
 }
 
 .first {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);color: #ffffff;
 }
 
 .second {
-    background-color: #ffff00;
+    background-color: #ffff00;color: #000000;
 }
